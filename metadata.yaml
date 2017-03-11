@@ -1,5 +1,8 @@
 _repo: Black-Beauty_271
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sewell, Anna
@@ -18,6 +21,8 @@ description: "Black Beauty is an 1877 novel by English author Anna Sewell. It wa
   \ it also teaches how to treat people with kindness, sympathy, and respect. In 2003,\
   \ the novel was listed at number 58 on the BBC's survey The Big Read.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/271#Black-Beauty
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Children's Literature
